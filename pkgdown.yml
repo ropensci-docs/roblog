@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  checks-guidance: checks-guidance.html
+last_built: 2021-07-20T23:17Z
+urls:
+  reference: https://docs.ropensci.org/roblog/reference
+  article: https://docs.ropensci.org/roblog/articles
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/roblog/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/roblog/reference/blog-posts.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/roblog/reference/pipe.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/roblog/reference/ro_check_urls.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/roblog/reference/ro_lint_md.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/roblog/articles/checks-guidance.html</loc>
+  </url>
+</urlset>

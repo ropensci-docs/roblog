@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "dcf2433d763d46aa1b24894d355a286a4bbd5169",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2021-04-21 08:44:13",
+    "files": 1,
+    "merge": false,
+    "message": "Update .Rbuildignore"
+  },
+  "remote": "https://github.com/ropensci-org/roblog",
+  "pkg": "roblog"
+}
