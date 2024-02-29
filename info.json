@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "cc3866e831c5fb5f5494d1ba9be67a4c5aa5a336",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-09-09 05:36:18",
+    "files": 5,
+    "merge": false,
+    "message": "feat: Check internal links (#60)\n\n"
+  },
+  "repo": "https://github.com/ropensci-org/roblog",
+  "pkg": "roblog"
+}
