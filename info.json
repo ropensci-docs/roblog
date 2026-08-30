@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "447b75c2aebdae2a8b2fd674d17da4ed0b9c999a",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-02-18T14:57:52Z",
+    "files": 2,
+    "merge": false,
+    "message": "docs: use config field (#66)\n\n* Update .Rbuildignore\n\n* Update DESCRIPTION"
+  },
+  "repo": "https://github.com/ropensci-org/roblog",
+  "pkg": "roblog",
+  "time": "2026-08-30T07:16:44Z"
+}
